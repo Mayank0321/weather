@@ -3,7 +3,10 @@ function Home() {
   return (
     <>
       <div>This is the HomePage Updated.</div>
-      <p>This is me testing the neovim in addition branch.</p>
+      <p>
+        This is me testing the neovim in addition branch and making further
+        changes.
+      </p>
     </>
   );
 }
