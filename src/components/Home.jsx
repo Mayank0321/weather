@@ -3,6 +3,7 @@ function Home() {
   return (
     <>
       <div>This is the HomePage Updated.</div>
+      <p>This is me testing the neovim</p>
     </>
   );
 }
