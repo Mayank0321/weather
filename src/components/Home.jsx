@@ -5,7 +5,7 @@ function Home() {
       <div>This is the HomePage Updated.</div>
       <p>
         This is me testing the neovim in addition branch and making further
-        changes inside the Homepage branch.
+        changes inside the Homepage branch and now in Addition branch.
       </p>
     </>
   );
