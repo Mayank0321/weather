@@ -5,7 +5,7 @@ function Home() {
       <div>This is the HomePage Updated.</div>
       <p>
         This is me testing the neovim after deleting all brnaches and adding a
-        new one.
+        new one and now Testing addition.
       </p>
     </>
   );
